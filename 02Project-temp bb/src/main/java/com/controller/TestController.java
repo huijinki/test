@@ -49,14 +49,14 @@ public class TestController {
 		return "success";
 	}
 	*/
-/*	@RequestMapping("/writez")
+	@RequestMapping("/writez")
 	public String write(){
 	
 		System.out.println("zzz");
 		//service.write(dto);
 		return "success";
 	}
-*/
+
 
 
 }
