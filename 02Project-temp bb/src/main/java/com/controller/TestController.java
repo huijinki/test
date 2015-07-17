@@ -29,6 +29,7 @@ public class TestController {
 		service.write(dto);
 		System.out.println("성공!");
 		return "success";
+		///////////////
 	}
 
 /*	@RequestMapping("/register")
